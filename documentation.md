@@ -69,8 +69,6 @@ Selbstverständlich. Ich werde die Dokumentation um den Punkt 3.2 mit dem initia
 
 ## Technische Dokumentation: Paperless-ngx Backup auf MagentaCLOUD
 
-[Punkte 1 und 2 bleiben unverändert]
-
 ### 3. Kopia Backup-Konfiguration
 
 #### 3.1 Backup-Intervall
